@@ -11,4 +11,4 @@ Andrew Crossman drafted BoltzmannDistribution.ipynb, found means of the histogra
 1. This homework was about exploring the properties of various distributions and exploring how the law of large numbers, and similarly the central limit theorem, affects the means of each distribution. These concepts were then applied to the Maxwell Boltzman distribution and the physics of gas molecules.
 2. The hardest part of this homework was figuring out the best way for our group to manage working on the same code, and implementing google collab and github into our workflow pipeline.
 3. The easiest part of this assignment was using the imported python libraries to generate distributions rather than having to paramaterize them ourselves.
-4. I learned that a Cauchy distribution does not have a well-defined mean 
+4. I learned that a Cauchy distribution does not have a well-defined mean. 
