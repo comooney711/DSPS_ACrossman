@@ -8,7 +8,13 @@ Connor Mooney - https://github.com/comooney711
 
 
 ## Summary
-1.
-2.
-3.
-4.
+1.**What was this homework about? Relate it to what we discussed in class.**
+  *The overall objective of this homework was to reproduce the work in [Corral 2018](https://arxiv.org/pdf/0910.0055.pdf). This included extracting a large set of data *
+2.**What was the hardest part of the homework for you?**
+  **
+3.**What was the easiest part of the homework for you?**
+  **
+4.**One new thing that you have learned**
+  **
+
+
