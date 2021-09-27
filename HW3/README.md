@@ -2,10 +2,10 @@
 Andrew Crossman -  https://github.com/AndrewCrossman <br />
 Ben Flaggs - https://github.com/bflaggs <br />
 Nik Korzoun - https://github.com/nkorzounUD <br />
-Connor Mooney - https://github.com/comooney711
+Connor Mooney - https://github.com/comooney711 <br />
 
 ## Contributions
-
+Members of this group were Andrew Crossman, Ben Flaggs (myself), Nik Korzoun, and Connor Mooney. Andrew Crossman made plot labels, checked the notebook for errors, reformmated code, then ensured that the code was PEP8 compliant. Ben Flaggs retrieved the data set from the SCEDC earthquake catalog, assisted with reading in, preparing, and selecting interested data, assisted in making the histograms in the data exploration section, and aided with understanding of the pseudocode. Nik Korzoun implemented the KS test, remade Fig. 1 and Table 1 from Corral 2018, and maintained code branches. Connor Mooney also assisted with reading in, preparing, and selecting valuable data, assisted in making histograms and aided with understanding of the pseudocode.
 
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
