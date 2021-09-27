@@ -22,6 +22,6 @@ Connor Mooney - https://github.com/comooney711
   
 4.**One new thing that you have learned**
   
- *One new thing I have learned is how to use pandas to manipulate large data sets. I think this will be particlularly useful for my research in nanosctructures where I deal with very large quantities of data. *
+*One new thing I have learned is how to use pandas to manipulate large data sets. I think this will be particlularly useful for my research in nanosctructures where I deal with very large quantities of data.*
 
 
