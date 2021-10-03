@@ -10,14 +10,14 @@ Connor Mooney - https://github.com/comooney711 <br />
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
 
-*This homework consisted of three main portions:
+*This homework consisted of three main portions:*
 
-1 - Demonstrating the existance of dark matter by showing how galaxies' rotational curves do not follow the expected Newtonian behavior
+*1 - Demonstrating the existance of dark matter by showing how galaxies' rotational curves do not follow the expected Newtonian behavior*
 
-2 - Applying error propogation to large sets of data and presenting the information with its respective error bars
+*2 - Applying error propogation to large sets of data and presenting the information with its respective error bars*
 
-3 - Using a simple MC sampling to show an application of the central limit theorem to distributions as the sampling size tends to infinity.
-*
+*3 - Using a simple MC sampling to show an application of the central limit theorem to distributions as the sampling size tends to infinity.*
+
   
 2.**What was the hardest part of the homework for you?**
 
