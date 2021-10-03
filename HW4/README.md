@@ -5,7 +5,33 @@ Nik Korzoun - https://github.com/nkorzounUD <br />
 Connor Mooney - https://github.com/comooney711 <br />
 
 ## Contributions
+Andrew Crossman:
 
+Derived the 'V^2 = 1/r' dependence on the velocity for a Newtonian framework of the galactic curve. 
+
+Developed the code to answer problem 1 in in [Hogg and Foreman-Mackey 2017](https://arxiv.org/pdf/1710.06068.pdf) and ensured that it was PEP8 compliant.
+
+Ben Flaggs:
+
+Read in and Cleaned up the galaxy data
+
+Derived the angular and physical size of M31 through computational analysis
+
+Drafted the `getradii` function
+
+Nik Korzoun:
+
+Drafted the `vratios` function
+
+Created the plots for the MW galaxy
+
+Managed code branches
+
+Connor Mooney:
+
+Assisted in developing the final draft of the `getradii` function
+
+Developed the `plotGal` function
 
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
