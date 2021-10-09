@@ -43,7 +43,7 @@ Connor Mooney - https://github.com/comooney711 <br />
   
 3.**What was the easiest part of the homework for you?**
 
-*The easiest part of this homework was ...*
+*The easiest part of this homework was ensuring PEP8 compliance. Most of the code was short and simple and did not even pass the 80 character limit per line.*
   
 4.**One new thing that you have learned**
   
