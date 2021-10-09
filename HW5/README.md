@@ -7,26 +7,34 @@ Connor Mooney - https://github.com/comooney711 <br />
 ## Contributions
 ### Andrew Crossman:
 
-**
+*Edited the solutions to solutions 1-3.*
 
-**
+*Ensured PEP8 compliance.*
 
 ### Ben Flaggs:
 
-**
+*Added captions to the figures in exercies 1-3.*
+
+*Edited the solutions to exercises 1-3.*
 
 ### Nik Korzoun:
 
-*Created the first draft for solut*
+*Created the first draft for exercise 1.*
+
+*Created the first draft for exercise 2.*
+
+*Created the first draft for exercise 3.*
 
 ### Connor Mooney:
 
-**
+*Created the first draft for exercise 4.*
+
+*Created the first draft for exercise 5.*
 
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
 
-*This homework was about linear fitting and how it widely overused *
+*This homework was about how to apply a linear fit algebraiclly and how it is widely overused in many scientific studies for a variety of reasons. We applied the algebraic fit as we were shown in class and added the proper error bars to the fit that were provided by the paper *
 
   
 2.**What was the hardest part of the homework for you?**
