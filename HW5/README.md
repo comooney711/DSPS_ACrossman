@@ -34,7 +34,7 @@ Connor Mooney - https://github.com/comooney711 <br />
 ## Summary
 1.**What was this homework about? Relate it to what we discussed in class.**
 
-*This homework was about how to apply a linear fit algebraiclly and how it is widely overused in many scientific studies for a variety of reasons. We applied the algebraic fit as we were shown in class and added the proper error bars to the fit that were provided by the paper *
+*This homework was about how to apply a linear fit algebraiclly and how it is widely overused in many scientific studies for a variety of reasons. We applied the algebraic fit as we were shown in class and added the proper error bars to the fit that were provided by the paper.*
 
   
 2.**What was the hardest part of the homework for you?**
